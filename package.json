@@ -1,0 +1,21 @@
+{
+  "name": "walletconnect-mobile-registry",
+  "version": "1.0.0",
+  "description": "Registry for WalletConnect mobile-to-mobile linking supported Wallets",
+  "main": "registry.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WalletConnect/walletconnect-mobile-registry.git"
+  },
+  "keywords": [
+    "WalletConnect",
+    "mobile",
+    "registry"
+  ],
+  "author": "Pedro Gomes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WalletConnect/walletconnect-mobile-registry/issues"
+  },
+  "homepage": "https://github.com/WalletConnect/walletconnect-mobile-registry#readme",
+}
